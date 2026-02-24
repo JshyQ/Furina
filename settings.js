@@ -54,12 +54,12 @@ global.yt = '' //NAMA YT LU, KALO GADA GAUSAH DIISI
 global.namaBot = "Furina | MD" // Ganti aja
 global.namabot = "Furina | MD" // Ganti serah lu
 global.footer = "WhatsApp Bot" //Ganti aja serah
-global.ttowner = '@hannaaffiii' //NAMA TIKTOK LU
+global.ttowner = '@jshyqzeq' //NAMA TIKTOK LU
 global.namafile = 'Furina 🛍' // Ganti aja
-global.ownername = 'Hannaaffiii' //NAMA LU
-global.owner = ['6288215660319'] // SETTING JUGA DI FOLDER DATABASE 
-global.ownernomer = '6288215660319' // NOMOR LU YANG MAU JDI OWNER
-global.socialm = 'GitHub: frhndevweb'
+global.ownername = 'DDein' //NAMA LU
+global.owner = ['6285111606001'] // SETTING JUGA DI FOLDER DATABASE 
+global.ownernomer = '6285111606001' // NOMOR LU YANG MAU JDI OWNER
+global.socialm = 'GitHub: jshyq'
 global.location = 'Indonesia' 
 global.nameCreator = 'Hannaaffiii'
 /////////////////////////////////////////////////////////////////////////////////
@@ -67,7 +67,7 @@ global.nameCreator = 'Hannaaffiii'
 
 
 //=================SETTING PAYMENT KALIAN===================\\
-global.nodana = '6288215660319' // KOSONG KAN JIKA TIDAK ADA
+global.nodana = '6285111606001' // KOSONG KAN JIKA TIDAK ADA
 global.nogopay = '' // KOSONG KAN JIKA TIDAK ADA 
 global.noovo = '' // KOSONG KAN JIKA TIDAK ADA
 /////////////////////////////////////////////////////////////////////////////////
@@ -75,7 +75,7 @@ global.noovo = '' // KOSONG KAN JIKA TIDAK ADA
 
 
 //==============SETTING PAYMENT NAME=======================\\
-global.andana = '6288215660319' // KOSONG KAN JIKA TIDAK ADA
+global.andana = '6285111606001' // KOSONG KAN JIKA TIDAK ADA
 global.angopay = '' // KOSONG KAN JIKA TIDAK ADA
 global.anovo = '' // KOSONG KAN JIKA TIDAK ADA
 //////////////////////////////////////////////////////////////////////////////////
@@ -84,22 +84,22 @@ global.anovo = '' // KOSONG KAN JIKA TIDAK ADA
 
 //==================SETTING BOT===========================\\
 global.botname = "Furina | MD " //NAMA BOT LU
-global.ownernumber = '6288215660319' //NOMOR LU
-global.botnumber = '6282241003726' //NOMOR LU
-global.ownername = 'Hannaaffiii' //NAMA LU
+global.ownernumber = '6285111606001' //NOMOR LU
+global.botnumber = '6285111606001' //NOMOR LU
+global.ownername = 'DDein' //NAMA LU
 global.idSaluran = "@newsletter"//ID SALURAN LU
 global.idch = "@newsletter"//ID SALURAN LU
 global.chat = '@newsletter' // Ganti idch buat command .chat
 global.namaSaluran = "Han AI" //Ganti sama nama saluran lu
-global.linkSaluran = "https://whatsapp.com/channel/0029VaxUhCZFy723nn2dp90l"
-global.ownerNumber = ["6288215660319@s.whatsapp.net"] //NOMORLU
+global.linkSaluran = ""
+global.ownerNumber = ["6285111606001@s.whatsapp.net"] //NOMORLU
 global.ownerweb = "https://frhndevweb.my.id"//WEB LU//OPSIONAL
 global.websitex = "https://frhndevweb.my.id/e-book"//OPSIONAL
-global.wagc = "https://whatsapp.com/channel/0029VaxUhCZFy723nn2dp90l"
-global.wach = 'https://whatsapp.com/channel/0029VaxUhCZFy723nn2dp90l'
-global.saluran = "https://whatsapp.com/channel/0029VaxUhCZFy723nn2dp90l"
+global.wagc = ""
+global.wach = ''
+global.saluran = ""
 global.themeemoji = '🪀'
-global.wm = "Furina X Hannaaffiii"
+global.wm = "Furina"
 global.botscript = 'MAAS MAF, BELUM ADA :D'
 global.version = "3.1.1"
 global.packname = "🛒 Hannaaffiii"
